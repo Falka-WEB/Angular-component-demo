@@ -1,0 +1,10 @@
+.container{
+  border: 1px solid silver;
+  border-radius: 15px;
+  padding: 15px 30px 40px 30px;
+  text-align: center;
+  width: 800px;
+  margin: 50px auto;
+  box-shadow: 10px 10px 30px silver;
+  font: 13pt 'Trebuchet MS';
+}
